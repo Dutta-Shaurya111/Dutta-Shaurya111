@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shaurya Dutta
+- 👀 I’m interested in the role of Android Developer, Spring Boot Developer, Java Developer
+- 🌱 I’m currently learning Api Development in Spring Boot
+- 💞️ I’m looking to collaborate on the projects related to the above specified roles. 
+- 📫 Feel free to contact me at Shaurya111dutta@gmail.com
